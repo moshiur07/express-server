@@ -37,8 +37,6 @@ const getTodos = async (req: Request, res: Response) => {
 
 
 
-
-
 export const todoController = {
     createTodo,
     getTodos
